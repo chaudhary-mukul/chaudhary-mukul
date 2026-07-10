@@ -36,7 +36,7 @@ I'm a Computer Science Engineering student with a strong foundation in Java and 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:xa.mukul.29@gmail.com">
+  <a href="mailto:xii.monty.27@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
