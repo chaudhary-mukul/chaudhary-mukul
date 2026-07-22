@@ -31,7 +31,7 @@
 public class Developer {
     String name = "Mukul Chaudhary";
     String role = "Computer Science Undergrad & Tech Enthusiast";
-    String[] coreStack = {"Java", "Data Structures", "HTML5", "CSS3"};
+    String[] TechStack = {"Java", "Python", "C", "HTML5", "CSS3", "JavaScript"};
     String currentGoal = "Mastering Advanced DSA & Building Full-Stack Systems";
     
     public void execute() {
