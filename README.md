@@ -26,7 +26,7 @@
 ---
 
 ### 💻 System Terminal: Mukul Chaudhary
-> *"Now working to master every domain, one algorithmic line of code at a time."*
+> *"THE ONLY WAY TO WIN IS TO FIGHT, SO FIGHT, JUST FIGHT"*
 
 ```java
 public class Developer {
