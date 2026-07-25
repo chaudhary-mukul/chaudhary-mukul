@@ -2,7 +2,7 @@
 
 <!-- OPTIMAL SPEED DYNAMIC TYPING HEADER -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=750&lines=System.out.println(%22Hello%2C+World!%22)%3B;Aspiring+to+be+better+everyday%3B;DSA+%2B+Full-Stack%3B;Bankai%3A+Infinite+Execution" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=750&lines=System.out.println(%22Hello%2C+World!%22)%3B;Aspiring+to+be+better+everyday%3B;DSA+%2B+Full-Stack%3B;Domain+Expansion%3A+Infinite+Execution" alt="Typing SVG" />
 </a>
 
 <br/><br/>
